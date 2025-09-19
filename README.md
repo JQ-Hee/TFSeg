@@ -1,8 +1,5 @@
 # TFSeg
 
-> **Note:** This repository is currently **private**.  
-> The full source code will be released once the final version is ready.
-
 This repository corresponds to the accepted paper:  
 **“Training-Free Breast Ultrasound Image Segmentation with Retrieval-based SAM2.”**
 
